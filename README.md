@@ -6,6 +6,7 @@ Lin(2025) 논문 "Application of machine learning in predicting consumer behavio
 이커머스 환경에서 소비자의 구매 여부를 예측하는 4가지 머신러닝 모델을 비교한다.
 
 ## 프로젝트 구조
+'''
 ecommerce-purchase-prediction/
 │
 ├── data/
@@ -16,6 +17,7 @@ ecommerce-purchase-prediction/
 │   └── 04_visualization.ipynb
 ├── outputs/
 └── README.md
+'''
 
 ##  데이터셋
 - **출처**: UCI Machine Learning Repository
