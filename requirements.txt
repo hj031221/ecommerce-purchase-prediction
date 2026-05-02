@@ -1,0 +1,18 @@
+# Data manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+catboost
+imbalanced-learn      # SMOTE 쓰려면 필요
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+notebook
+ipykernel
